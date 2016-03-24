@@ -25,6 +25,7 @@ public class Task extends AsyncTask<Integer, Integer, Boolean> {
         msg.obj = context;
         handler.sendMessage(msg);
         handler.sendMessage(msg);// develop1
+        handler.sendMessage(msg);// develop1_2
 //        handler.sendMessage(msg);
         super.onPreExecute();
 //        ádasđs
