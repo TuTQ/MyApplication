@@ -15,9 +15,9 @@ import com.example.tutq.myapplication.R;
  * A placeholder fragment containing a simple view.
  *
  */
-public class FragmentC extends Fragment {
+public class FragmentB extends Fragment {
 
-    public FragmentC() {
+    public FragmentB() {
     }
 
 
